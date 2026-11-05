@@ -6,7 +6,7 @@ require (
 	github.com/georgysavva/scany/v2 v2.1.3
 	github.com/go-playground/validator/v10 v10.23.0
 	github.com/gojuno/minimock/v3 v3.4.3
-	github.com/jackc/pgx/v5 v5.7.1
+	github.com/jackc/pgx/v5 v5.9.2
 	github.com/joho/godotenv v1.5.1
 	github.com/kelseyhightower/envconfig v1.4.0
 	github.com/labstack/echo/v4 v4.15.3
